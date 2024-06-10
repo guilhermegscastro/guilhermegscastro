@@ -2,16 +2,16 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Analysis with Python (AlgoExpert)</b>
+- <b>Data Analysis with Python </b>
   - [Portifolio Optimizatio](https://github.com/guilhermegscastro/Portifolio-Optimization)
 
 <h2>🔭 Certifications </h2>
 
-- [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Commercial Real Estate Finance Specialist | CFI ](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Financial Modeling and Valuation | Ricardo Peruffo CFA ](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Securities Industry Essentials (SIE) Exam](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Financial Markets | Robert Shiller](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.credential.net/73004c3e-95cc-48b0-867e-39b615febe29)
+- [Commercial Real Estate Finance Specialist | CFI ](https://www.credential.net/c2e4dabf-8755-4c32-8f14-fe64b12e01ee)
+- [Financial Modeling and Valuation | Ricardo Peruffo CFA ]
+- [Securities Industry Essentials (SIE) Exam]
+- [Financial Markets | Robert Shiller]
 
 
 <!--
