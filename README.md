@@ -9,9 +9,9 @@
 
 - [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.credential.net/73004c3e-95cc-48b0-867e-39b615febe29)
 - [Commercial Real Estate Finance Specialist | CFI ](https://www.credential.net/c2e4dabf-8755-4c32-8f14-fe64b12e01ee)
-- [Financial Modeling and Valuation | Ricardo Peruffo CFA ]
-- [Securities Industry Essentials (SIE) Exam]
-- [Financial Markets | Robert Shiller]
+- Financial Modeling and Valuation | Ricardo Peruffo CFA
+- Securities Industry Essentials (SIE) Exam
+- Financial Markets | Robert Shiller
 
 
 <!--
