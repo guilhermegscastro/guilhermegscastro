@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis with Python </b>
-  - [Stock Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
+  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 
 <h2>🔭 Certifications </h2>
 
