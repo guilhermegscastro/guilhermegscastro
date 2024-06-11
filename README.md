@@ -4,7 +4,8 @@
 
 - <b>Data Analysis with Python </b>
  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
-    
+ - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)   
 - <b>3-Statement Model with Excel </b>
  - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
 
