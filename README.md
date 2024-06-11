@@ -2,6 +2,8 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>3-Statement Model with Excel </b>
+  - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/)
 - <b>Data Analysis with Python </b>
   - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 
