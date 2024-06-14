@@ -5,8 +5,8 @@
 - <b>Data Analysis with Python </b>
   - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 - <b>3-Statement Model with Excel </b>
+  - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
-
 <h2>🔭 Certifications </h2>
 
 - [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.credential.net/73004c3e-95cc-48b0-867e-39b615febe29)
