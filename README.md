@@ -5,7 +5,7 @@
 - <b>Data Analysis with Python </b>
   - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 - <b>3-Statement Model with Excel </b>
-  - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/)
+  - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
 <h2>🔭 Certifications </h2>
 
