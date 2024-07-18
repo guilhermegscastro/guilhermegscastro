@@ -16,6 +16,7 @@
 - Financial Modeling and Valuation | Ricardo Peruffo CFA
 - Securities Industry Essentials (SIE) Exam
 - Financial Markets | Robert Shiller
+- [Data Science Analyst Specialization | CFI ]
 
 
 <!--
