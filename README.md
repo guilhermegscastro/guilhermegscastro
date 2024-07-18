@@ -1,7 +1,8 @@
 <h1>Hi, I'm Guilherme! <br/><a href="https://github.com/guilhermegscastro">Financial Data Analyst</a>
   
 <h2>👨‍💻 Projects:</h2>
-
+- <b>Data Science with Python </b>
+  - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
 - <b>Data Analysis with Python </b>
   - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 - <b>3-Statement Model with Excel </b>
