@@ -2,12 +2,11 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Valuation with Python </b>
-  - [Valuation, Value at Risk and Monte Carlo Simulation with Python](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
+- <b>Data Analysis with Python </b>
+  - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
+  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 - <b>Data Science with Python </b>
   - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
-- <b>Data Analysis with Python </b>
-  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
 - <b>3-Statement Model with Excel </b>
   - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
