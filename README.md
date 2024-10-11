@@ -2,6 +2,8 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Valuation with Python </b>
+  - [Valuation, Value at Risk and Monte Carlo Simulation with Python](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
 - <b>Data Science with Python </b>
   - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
 - <b>Data Analysis with Python </b>
