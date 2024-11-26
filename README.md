@@ -10,6 +10,9 @@
 - <b>3-Statement Model with Excel </b>
   - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
+- <b>CS50x - 2024 </b>
+  - [Week 0](https://github.com/guilhermegscastro/)
+
 <h2>🔭 Certifications </h2>
 
 - [Data Science Analyst Specialization | CFI ](https://www.credential.net/e68d0c36-3cb3-4c35-9cac-83b9d96b0ff9)
