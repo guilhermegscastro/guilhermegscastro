@@ -11,7 +11,7 @@
   - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
 - <b>CS50x - 2024 </b>
-  - [Week 0](https://github.com/guilhermegscastro/)
+  - [Week 0](https://github.com/guilhermegscastro/Week_0)
 
 <h2>🔭 Certifications </h2>
 
