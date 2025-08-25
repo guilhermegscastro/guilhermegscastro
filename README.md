@@ -5,7 +5,7 @@
 - <b>Dashboard with Python </b>
   - [Financial Market Dashboard](https://github.com/guilhermegscastro/Financial-News-Web-Scraping-)
 - <b>Real Estate Financial Analysis </b>
-  - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Financial-News-Web-Scraping-)
+  - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
 - <b>Data Analysis with Python </b>
   - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Valuation_VaR_Monte_Carlo_Simulation)
   - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
