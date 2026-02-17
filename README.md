@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Real Estate Financial Analysis </b>
-  - [Empire State Building Valuation Case Study](https://github.com/guilhermegscastro/Empire-State-Building-Valuation-Case-Study)
+  - [Empire State Building Valuation](https://github.com/guilhermegscastro/Empire-State-Building-Valuation-Case-Study)
   - [Real Estate Development](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
   - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
 - <b>Dashboard with Python </b>
