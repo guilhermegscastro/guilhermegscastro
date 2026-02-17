@@ -2,19 +2,22 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Real Estate Financial Analysis </b>
+  - [Real Estate Development](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
+  - [Real Estate Development](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
+  - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
 - <b>Dashboard with Python </b>
   - [Financial Market Dashboard](https://github.com/guilhermegscastro/Financial-News-Web-Scraping-)
-- <b>Real Estate Financial Analysis </b>
-  - [Real Estate Financial Model](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
-  - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
-- <b>Data Analysis with Python </b>
-  - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Valuation_VaR_Monte_Carlo_Simulation)
-  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
-- <b>Data Science with Python </b>
-  - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
 - <b>3-Statement Model with Excel </b>
   - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
   - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
+- <b>Data Science with Python </b>
+  - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
+- <b>Data Analysis with Python </b>
+  - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Valuation_VaR_Monte_Carlo_Simulation)
+  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
+
+
 
 <h2>🔭 Certifications </h2>
 
