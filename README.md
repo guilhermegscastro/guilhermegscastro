@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gui Graboski! <br/><a href="https://github.com/guilhermegscastro">Financial Data Analyst</a>
+<h1>Hi, I'm Gui Graboski! <br/><a href="https://github.com/guilhermegscastro">Real Estate & Financial Analyst</a>
   
 <h2>👨‍💻 Projects:</h2>
 
