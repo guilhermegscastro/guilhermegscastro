@@ -21,13 +21,12 @@
 
 <h2>🔭 Certifications </h2>
 
-- [Introduction to Computer Science (CS50x) | Harvard University](https://certificates.cs50.io/6e3035ae-a51c-4743-8a8b-7f4f29aa393c.pdf?size=letter)
-- [Data Science Analyst Specialization | CFI ](https://www.credential.net/e68d0c36-3cb3-4c35-9cac-83b9d96b0ff9)
 - [Commercial Real Estate Finance Specialist | CFI ](https://www.credential.net/c2e4dabf-8755-4c32-8f14-fe64b12e01ee)
 - [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.credential.net/73004c3e-95cc-48b0-867e-39b615febe29)
 - Financial Modeling and Valuation | Ricardo Peruffo CFA
+- [Introduction to Computer Science (CS50x) | Harvard University](https://certificates.cs50.io/6e3035ae-a51c-4743-8a8b-7f4f29aa393c.pdf?size=letter)
+- [Data Science Analyst Specialization | CFI ](https://www.credential.net/e68d0c36-3cb3-4c35-9cac-83b9d96b0ff9)
 - Securities Industry Essentials (SIE) Exam
-- Financial Markets | Robert Shiller
 
 
 
