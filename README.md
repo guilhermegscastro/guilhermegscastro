@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gui Graboski! <br/><a href="https://github.com/guilhermegscastro">Real Estate & Financial Analyst</a>
   
-<h2>👨‍💻 Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Real Estate Financial Analysis </b>
   - [Real Estate Development](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
@@ -19,7 +19,7 @@
 
 
 
-<h2>🔭 Certifications </h2>
+<h2>Certifications </h2>
 
 - ARGUS Enterprise® Certified Professional
 - [Commercial Banking & Credit Analyst (CBCA®) | CFI](https://www.credential.net/73004c3e-95cc-48b0-867e-39b615febe29)
