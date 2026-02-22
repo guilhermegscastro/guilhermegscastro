@@ -1,21 +1,21 @@
 <h1>Hi, I'm Gui Graboski! <br/><a href="https://github.com/guilhermegscastro">Real Estate & Financial Analyst</a>
   
-<h2>Projects:</h2>
+<h2>Selected Modeling Work:</h2>
 
 - <b>Real Estate Financial Analysis </b>
-  - [Empire State Building Valuation](https://github.com/guilhermegscastro/Empire-State-Building-Valuation-Case-Study)
-  - [Real Estate Development](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
-  - [Commercial Mortgage Model](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
+  - [Institutional Office Asset Underwriting & Valuation Model](https://github.com/guilhermegscastro/Empire-State-Building-Valuation-Case-Study)
+  - [Multifamily Development Financial Feasibility Model](https://github.com/guilhermegscastro/Real-Estate-Financial-Modeling)
+  - [Commercial Mortgage Underwriting & Loan Sizing Analysis](https://github.com/guilhermegscastro/Commercial-Mortgage-Model-)
 - <b>Dashboard with Python </b>
-  - [Financial Market Dashboard](https://github.com/guilhermegscastro/Financial-News-Web-Scraping-)
+  - [Financial Market Data Analytics Dashboard](https://github.com/guilhermegscastro/Financial-News-Web-Scraping-)
 - <b>3-Statement Model with Excel </b>
-  - [Walmart - Debt Modeling](https://github.com/guilhermegscastro/Walmart-DebtModeling)
-  - [Walmart - Equity Valuation](https://github.com/guilhermegscastro/Walmart-EquityValuation)
+  - [Corporate Debt Capacity & Credit Analysis Model](https://github.com/guilhermegscastro/Walmart-DebtModeling)
+  - [Public Company Equity Valuation Model](https://github.com/guilhermegscastro/Walmart-EquityValuation)
 - <b>Data Science with Python </b>
-  - [Loan Default Prediction with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
+  - [Credit Risk Modeling & Default Probability Analysis with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
 - <b>Data Analysis with Python </b>
   - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Valuation_VaR_Monte_Carlo_Simulation)
-  - [Portfolio Optimization](https://github.com/guilhermegscastro/Portifolio-Optimization)
+  - [Portfolio Optimization Model](https://github.com/guilhermegscastro/Portifolio-Optimization)
 
 
 
