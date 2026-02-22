@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gui Graboski! <br/><a href="https://github.com/guilhermegscastro">Real Estate & Financial Analyst</a>
   
-<h2>Selected Modeling Work:</h2>
+<h2>Selected Modeling & Analysis Work:</h2>
 
 - <b>Real Estate Financial Analysis </b>
   - [Institutional Office Asset Underwriting & Valuation Model](https://github.com/guilhermegscastro/Empire-State-Building-Valuation-Case-Study)
