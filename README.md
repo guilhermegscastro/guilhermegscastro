@@ -13,9 +13,6 @@
   - [Public Company Equity Valuation Model](https://github.com/guilhermegscastro/Walmart-EquityValuation)
 - <b>Data Science with Python </b>
   - [Credit Risk Modeling & Default Probability Analysis with Machine Learning](https://github.com/guilhermegscastro/Credit-Risk-Analysis)
-- <b>Data Analysis with Python </b>
-  - [Valuation, Value at Risk and Monte Carlo Simulation](https://github.com/guilhermegscastro/Valuation_VaR_Monte_Carlo_Simulation)
-  - [Portfolio Optimization Model](https://github.com/guilhermegscastro/Portifolio-Optimization)
 
 
 
